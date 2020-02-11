@@ -1,0 +1,715 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="45250756-1b1b-4345-8ed0-8ed084fc29ef" name="Default" comment="" />
+    <ignored path="python-study.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/python-study$shipment_main.coverage" NAME="shipment_main Coverage Results" MODIFIED="1539162104191" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/NextOffice/shipment" />
+    <SUITE FILE_PATH="coverage/python-study$browser__1_.coverage" NAME="browser (1) Coverage Results" MODIFIED="1538966853789" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/NextOffice/tmp" />
+    <SUITE FILE_PATH="coverage/python-study$trans.coverage" NAME="trans Coverage Results" MODIFIED="1540983813631" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/NextOffice/service" />
+    <SUITE FILE_PATH="coverage/python-study$service_main.coverage" NAME="service_main Coverage Results" MODIFIED="1539166999829" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/NextOffice/service" />
+    <SUITE FILE_PATH="coverage/python-study$tem.coverage" NAME="tem Coverage Results" MODIFIED="1541822559792" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/NextOffice" />
+    <SUITE FILE_PATH="coverage/python_study$main.coverage" NAME="main Coverage Results" MODIFIED="1553128557325" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/NextOffice" />
+    <SUITE FILE_PATH="coverage/python-study$edit__1_.coverage" NAME="edit (1) Coverage Results" MODIFIED="1538967127186" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/NextOffice/tt" />
+    <SUITE FILE_PATH="coverage/python-study$customer_main.coverage" NAME="customer_main Coverage Results" MODIFIED="1539055915418" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/NextOffice/customer" />
+    <SUITE FILE_PATH="coverage/python-study$service_add.coverage" NAME="service_add Coverage Results" MODIFIED="1540989788971" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/NextOffice/service" />
+    <SUITE FILE_PATH="coverage/python_study$tem.coverage" NAME="tem Coverage Results" MODIFIED="1553123624837" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/NextOffice" />
+    <SUITE FILE_PATH="coverage/python-study$shipment_browser__1_.coverage" NAME="shipment_browser (1) Coverage Results" MODIFIED="1541645607503" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/NextOffice" />
+    <SUITE FILE_PATH="coverage/python-study$browser.coverage" NAME="browser Coverage Results" MODIFIED="1538966249432" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/NextOffice/display" />
+    <SUITE FILE_PATH="coverage/python-study$add.coverage" NAME="add Coverage Results" MODIFIED="1538992589327" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/NextOffice/tt" />
+    <SUITE FILE_PATH="coverage/python_study$tt.coverage" NAME="tt Coverage Results" MODIFIED="1552813882891" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/NextOffice/shipment" />
+    <SUITE FILE_PATH="coverage/python-study$browser__2_.coverage" NAME="browser (2) Coverage Results" MODIFIED="1538992479345" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/NextOffice/tt" />
+    <SUITE FILE_PATH="coverage/python_study$shipment_browser__1_.coverage" NAME="shipment_browser (1) Coverage Results" MODIFIED="1552814939215" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/NextOffice" />
+    <SUITE FILE_PATH="coverage/python-study$connect.coverage" NAME="connect Coverage Results" MODIFIED="1541832306186" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/NextOffice" />
+    <SUITE FILE_PATH="coverage/python-study$shipment_browser.coverage" NAME="shipment_browser Coverage Results" MODIFIED="1541489998481" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="F:/NextAI_Office/Python-boo/NextOffice" />
+    <SUITE FILE_PATH="coverage/python_study$connect.coverage" NAME="connect Coverage Results" MODIFIED="1553128585942" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/NextOffice" />
+    <SUITE FILE_PATH="coverage/python-study$PYQT5.coverage" NAME="PYQT5窗口关闭处理 Coverage Results" MODIFIED="1538710384345" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sample" />
+    <SUITE FILE_PATH="coverage/python-study$shipment_edit.coverage" NAME="shipment_edit Coverage Results" MODIFIED="1539311852151" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/NextOffice/shipment" />
+    <SUITE FILE_PATH="coverage/python-study$add__1_.coverage" NAME="add (1) Coverage Results" MODIFIED="1538966901386" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/NextOffice/tmp" />
+    <SUITE FILE_PATH="coverage/python-study$customer_browser__1_.coverage" NAME="customer_browser (1) Coverage Results" MODIFIED="1541489919577" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="F:/NextAI_Office/Python-boo/NextOffice" />
+    <SUITE FILE_PATH="coverage/python-study$service_browser__1_.coverage" NAME="service_browser (1) Coverage Results" MODIFIED="1541646122406" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/NextOffice" />
+    <SUITE FILE_PATH="coverage/python-study$tt.coverage" NAME="tt Coverage Results" MODIFIED="1540989553271" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/NextOffice/shipment" />
+    <SUITE FILE_PATH="coverage/python-study$customer_edit.coverage" NAME="customer_edit Coverage Results" MODIFIED="1541230357875" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/NextOffice/customer" />
+    <SUITE FILE_PATH="coverage/python-study$tmp.coverage" NAME="tmp Coverage Results" MODIFIED="1539167468770" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/NextOffice" />
+    <SUITE FILE_PATH="coverage/python-study$shipment_tt.coverage" NAME="shipment_tt Coverage Results" MODIFIED="1539242643032" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/NextOffice/shipment" />
+    <SUITE FILE_PATH="coverage/python-study$service_edit.coverage" NAME="service_edit Coverage Results" MODIFIED="1540983915271" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/NextOffice/service" />
+    <SUITE FILE_PATH="coverage/python-study$main.coverage" NAME="main Coverage Results" MODIFIED="1541644931991" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/NextOffice" />
+    <SUITE FILE_PATH="coverage/python-study$ui.coverage" NAME="ui Coverage Results" MODIFIED="1541060384851" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../../../../../../Temp/Rar$DIa0.172" />
+    <SUITE FILE_PATH="coverage/python-study$edit.coverage" NAME="edit Coverage Results" MODIFIED="1538966933988" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/NextOffice/tmp" />
+    <SUITE FILE_PATH="coverage/python-study$service_browser.coverage" NAME="service_browser Coverage Results" MODIFIED="1541489856848" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="F:/NextAI_Office/Python-boo/NextOffice" />
+    <SUITE FILE_PATH="coverage/python-study$customer_add.coverage" NAME="customer_add Coverage Results" MODIFIED="1540990219125" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/NextOffice/customer" />
+    <SUITE FILE_PATH="coverage/python-study$shipment_add.coverage" NAME="shipment_add Coverage Results" MODIFIED="1540989559081" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/NextOffice/shipment" />
+    <SUITE FILE_PATH="coverage/python_study$shipment_browser.coverage" NAME="shipment_browser Coverage Results" MODIFIED="1552813942473" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/NextOffice/shipment" />
+    <SUITE FILE_PATH="coverage/python-study$Singnal_Slot.coverage" NAME="Singnal_Slot Coverage Results" MODIFIED="1541060388766" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../../../../../../Temp/Rar$DIa0.881" />
+    <SUITE FILE_PATH="coverage/python-study$customer_browser.coverage" NAME="customer_browser Coverage Results" MODIFIED="1541230714280" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/NextOffice/customer" />
+    <SUITE FILE_PATH="coverage/python-study$tt__1_.coverage" NAME="tt (1) Coverage Results" MODIFIED="1540350283108" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/NextOffice/shipment" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="python-study" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>database</find>
+      <find>tim</find>
+      <find>receivable</find>
+      <find>push</find>
+      <find>WHERE</find>
+      <find>toolbutton</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/NextOffice/display/tt.py" />
+        <option value="$PROJECT_DIR$/sample/PYQT5窗口关闭处理.py" />
+        <option value="$PROJECT_DIR$/NextOffice/display/add.py" />
+        <option value="$PROJECT_DIR$/NextOffice/display/browser.py" />
+        <option value="$PROJECT_DIR$/NextOffice/display/edit.py" />
+        <option value="$PROJECT_DIR$/NextOffice/tmp/browser.py" />
+        <option value="$PROJECT_DIR$/NextOffice/tmp/edit.py" />
+        <option value="$PROJECT_DIR$/NextOffice/tmp/add.py" />
+        <option value="$PROJECT_DIR$/NextOffice/tt/add.py" />
+        <option value="$PROJECT_DIR$/NextOffice/tt/edit.py" />
+        <option value="$PROJECT_DIR$/NextOffice/tt/browser.py" />
+        <option value="$PROJECT_DIR$/NextOffice/tt/main.py" />
+        <option value="$PROJECT_DIR$/NextOffice/service/service_main.py" />
+        <option value="$PROJECT_DIR$/NextOffice/shipment/shipment_main.py" />
+        <option value="$PROJECT_DIR$/NextOffice/customer/customer_main.py" />
+        <option value="$PROJECT_DIR$/NextOffice/shipment/shipment_tt.py" />
+        <option value="$PROJECT_DIR$/NextOffice/shipment/shipment_add.py" />
+        <option value="$PROJECT_DIR$/NextOffice/service/tt.py" />
+        <option value="$PROJECT_DIR$/NextOffice/service/service_add.py" />
+        <option value="$PROJECT_DIR$/NextOffice/customer/trans.py" />
+        <option value="$PROJECT_DIR$/NextOffice/customer/customer_add.py" />
+        <option value="$PROJECT_DIR$/NextOffice/customer/tt.py" />
+        <option value="$PROJECT_DIR$/NextOffice/service/trans.py" />
+        <option value="$PROJECT_DIR$/NextOffice/shipment/trans.py" />
+        <option value="$PROJECT_DIR$/NextOffice/customer/customer_edit.py" />
+        <option value="$PROJECT_DIR$/NextOffice/customer/customer_browser.py" />
+        <option value="$PROJECT_DIR$/NextOffice/shipment/shipment_edit.py" />
+        <option value="$PROJECT_DIR$/NextOffice/service/service_edit.py" />
+        <option value="$PROJECT_DIR$/NextOffice/main.py" />
+        <option value="$PROJECT_DIR$/NextOffice/service/service_browser.py" />
+        <option value="$PROJECT_DIR$/NextOffice/tmp.py" />
+        <option value="F:/NextAI_Office/Python-boo/NextOffice/service_browser.py" />
+        <option value="F:/NextAI_Office/Python-boo/NextOffice/customer_browser.py" />
+        <option value="F:/NextAI_Office/Python-boo/NextOffice/shipment_browser.py" />
+        <option value="$PROJECT_DIR$/NextOffice/service_browser.py" />
+        <option value="$PROJECT_DIR$/NextOffice/UpDownload.py" />
+        <option value="$PROJECT_DIR$/NextOffice/customer_browser.py" />
+        <option value="$PROJECT_DIR$/NextOffice/shipment/tt.py" />
+        <option value="$PROJECT_DIR$/NextOffice/shipment/shipment_browser.py" />
+        <option value="$PROJECT_DIR$/NextOffice/shipment_browser.py" />
+        <option value="$PROJECT_DIR$/NextOffice/shipment_edit.py" />
+        <option value="$PROJECT_DIR$/NextOffice/shipment_add.py" />
+        <option value="$PROJECT_DIR$/NextOffice/tem.py" />
+        <option value="$PROJECT_DIR$/NextOffice/connect.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="682" />
+    <option name="y" value="2" />
+    <option name="width" value="1238" />
+    <option name="height" value="1041" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="python-study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python-study" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python-study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python-study" type="462c0819:PsiDirectoryNode" />
+              <item name="NextOffice" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/NextOffice" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.connect">
+    <configuration default="true" type="tests" factoryName="Attests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="python-study" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration name="connect" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python-study" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/NextOffice" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/NextOffice/connect.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python-study" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/NextOffice" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/NextOffice/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="shipment_browser (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python-study" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/NextOffice" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/NextOffice/shipment_browser.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="shipment_browser" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python-study" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/NextOffice/shipment" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/NextOffice/shipment/shipment_browser.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="tem" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python-study" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/NextOffice" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/NextOffice/tem.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.tem" />
+      <item itemvalue="Python.shipment_browser" />
+      <item itemvalue="Python.shipment_browser (1)" />
+      <item itemvalue="Python.main" />
+      <item itemvalue="Python.connect" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.connect" />
+        <item itemvalue="Python.main" />
+        <item itemvalue="Python.tem" />
+        <item itemvalue="Python.shipment_browser (1)" />
+        <item itemvalue="Python.shipment_browser" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="StructuralSearchPlugin">
+    <replaceConfiguration name="user defined" created="1536723188620" text="service" recursive="false" caseInsensitive="true" type="XML" reformatAccordingToStyle="true" shortenFQN="true" useStaticImport="true" replacement="shipment" history="1">
+      <constraint name="__context__" target="true" within="" contains="" />
+    </replaceConfiguration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="45250756-1b1b-4345-8ed0-8ed084fc29ef" name="Default" comment="" />
+      <created>1535085035163</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1535085035163</updated>
+      <workItem from="1545964416420" duration="124000" />
+      <workItem from="1552652595273" duration="117000" />
+      <workItem from="1552653157630" duration="210000" />
+      <workItem from="1552653393398" duration="8870000" />
+      <workItem from="1552789177211" duration="15257000" />
+      <workItem from="1552832336931" duration="4659000" />
+      <workItem from="1552999362511" duration="1948000" />
+      <workItem from="1553001339363" duration="19746000" />
+      <workItem from="1553466073877" duration="598000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="51529000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="682" y="2" width="1238" height="1041" extended-state="0" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22665535" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.2753304" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="调试" order="7" weight="0.32785088" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="运行" order="11" weight="0.28162816" />
+      <window_info anchor="bottom" id="Version Control" order="12" />
+      <window_info anchor="bottom" id="找到" order="13" weight="0.3291536" />
+      <window_info anchor="bottom" id="版本控制" order="14" />
+      <window_info anchor="bottom" id="Docker" order="15" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="16" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="right" id="SciView" order="4" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.09655532" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.2753304" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="调试" order="7" weight="0.32810867" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="运行" order="11" weight="0.21365638" />
+      <window_info anchor="bottom" id="Version Control" order="12" />
+      <window_info anchor="bottom" id="找到" order="13" weight="0.3291536" />
+      <window_info anchor="bottom" id="版本控制" order="14" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/NextOffice/connect.py</url>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/../../../../../../../Programs/Python/Python36/Lib/site-packages/PyQt5/uic/pyuic.py" />
+    <entry file="file://$PROJECT_DIR$/sample/PYQT5窗口关闭处理.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sample/s009-石头剪刀布.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NextOffice/shipment/shipment_tt.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="318" selection-start-line="318" selection-end-line="318" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NextOffice/service/service_add.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="218" selection-start-line="218" selection-end-line="218" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NextOffice/shipment/shipment_add.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="343" column="19" selection-start-line="343" selection-start-column="19" selection-end-line="343" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NextOffice/service/tt.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="203" column="27" selection-start-line="203" selection-start-column="27" selection-end-line="203" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practic2/display/customer_browser.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="489" column="26" selection-start-line="489" selection-start-column="26" selection-end-line="489" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NextOffice/customer/trans.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="1599" column="3" selection-start-line="1599" selection-start-column="3" selection-end-line="1599" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NextOffice/customer/customer_add.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="173" column="20" selection-start-line="173" selection-start-column="20" selection-end-line="173" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NextOffice/customer/tt.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="166" column="102" selection-start-line="166" selection-start-column="102" selection-end-line="166" selection-end-column="102" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NextOffice/service/trans.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="1632" selection-start-line="1171" selection-end-line="1632" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NextOffice/shipment/trans.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="2385" selection-start-line="1678" selection-end-line="2385" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backup/backup_NextOffice_v01_20181011/customer/customer_edit.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="9" column="22" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NextOffice/customer/customer_edit.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NextOffice/service/service_edit.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="142" column="51" selection-start-line="142" selection-start-column="51" selection-end-line="142" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NextOffice/customer/customer_browser.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NextOffice/service/service_browser.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="1495" column="43" selection-start-line="1495" selection-start-column="43" selection-end-line="1495" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NextOffice/shipment/shipment_edit.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/NextAI_Office/Python-boo/NextOffice/customer_browser.py" />
+    <entry file="file://F:/NextAI_Office/Python-boo/NextOffice/shipment_browser.py" />
+    <entry file="file://F:/NextAI_Office/Python-boo/NextOffice/service_browser.py" />
+    <entry file="file://$PROJECT_DIR$/NextOffice/service_browser.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="1590" selection-start-line="1590" selection-end-line="1590" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Documents/Tencent Files/1507262/FileRecv/x7_test.c" />
+    <entry file="file://$PROJECT_DIR$/NextOffice/UpDownload.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="797">
+          <caret line="108" column="36" lean-forward="true" selection-start-line="108" selection-start-column="36" selection-end-line="108" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NextOffice/customer_add.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="1" selection-start-line="1" selection-end-line="1" selection-end-column="14" />
+          <folding>
+            <element signature="e#179#7679#0" />
+            <element signature="e#7724#9308#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NextOffice/customer_browser.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="151">
+          <caret line="1287" lean-forward="true" selection-end-line="1464" />
+          <folding>
+            <element signature="e#0#14#0" expanded="true" />
+            <element signature="e#262#53322#0" />
+            <element signature="e#53366#66958#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NextOffice/shipment/tt.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="218">
+          <caret line="2225" column="20" lean-forward="true" selection-start-line="2225" selection-start-column="20" selection-end-line="2225" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NextOffice/shipment/shipment_browser.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="1749" lean-forward="true" selection-start-line="1749" selection-end-line="1749" />
+          <folding>
+            <element signature="e#0#14#0" expanded="true" />
+            <element signature="e#309#83609#0" />
+            <element signature="e#83654#101662#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NextOffice/shipment_add.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="281" column="13" selection-start-line="281" selection-start-column="13" selection-end-line="281" selection-end-column="13" />
+          <folding>
+            <element signature="e#0#14#0" expanded="true" />
+            <element signature="e#291#10544#0" />
+            <element signature="e#10589#15990#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NextOffice/shipment_browser.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="2132" column="25" selection-start-line="2132" selection-start-column="25" selection-end-line="2132" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NextOffice/shipment_edit.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="331" column="37" selection-start-line="331" selection-start-column="37" selection-end-line="331" selection-end-column="37" />
+          <folding>
+            <element signature="e#0#14#0" expanded="true" />
+            <element signature="e#278#10501#0" />
+            <element signature="e#10545#15086#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NextOffice/service_edit.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="218" lean-forward="true" selection-start-line="225" selection-end-line="225" selection-end-column="167" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NextOffice/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="136" column="45" selection-start-line="136" selection-start-column="45" selection-end-line="136" selection-end-column="45" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NextOffice/connect.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="171" column="61" lean-forward="true" selection-start-line="171" selection-start-column="61" selection-end-line="171" selection-end-column="61" />
+          <folding>
+            <element signature="e#0#30#0" expanded="true" />
+            <element signature="e#367#577#0" />
+            <element signature="e#3176#4788#0" />
+            <element signature="e#3522#4023#0" />
+            <element signature="e#3566#4023#0" />
+            <element signature="e#4093#4667#0" />
+            <element signature="e#4138#4667#0" />
+            <element signature="e#5185#6070#0" />
+            <element signature="e#5504#5629#0" />
+            <element signature="e#6111#6309#0" />
+            <element signature="e#6139#6309#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NextOffice/tem.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="6" column="6" lean-forward="true" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
